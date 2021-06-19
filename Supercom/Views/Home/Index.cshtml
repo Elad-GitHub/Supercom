@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Users</h2>
+<div>
+    <table id="UsersTable">
+        <thead>
+        <th>ID</th>
+        <th>Name</th>
+        </thead>
+        @foreach (var item in ViewBag.userdetails)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </table>
+</div>
+<hr/>
+<div>
+    <input type="button" value="Create New User" onclick="@("window.location.href='" + @Url.Action("Create", "Home") + "'");" />
+</div>
+
+<style>
+    table#UsersTable {
+        width: 100%;
+        background-color: #f1f1c1;
+    }
+
+        table#UsersTable tr:nth-child(even) {
+            background-color: #eee;
+        }
+
+        table#UsersTable tr:nth-child(odd) {
+            background-color: #fff;
+        }
+
+        table#UsersTable th {
+            color: white;
+            background-color: blue;
+        }
+
+    table, th, td {
+        border: 1px solid black;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 15px;
+    }
+</style>

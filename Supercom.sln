@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supercom", "Supercom\Supercom.csproj", "{78209379-ABAC-465A-9514-C9C1A689F85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsersManagerService", "UsersManagerService\UsersManagerService.csproj", "{455B7A38-489C-415E-B805-E6E7336ABF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78209379-ABAC-465A-9514-C9C1A689F85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78209379-ABAC-465A-9514-C9C1A689F85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78209379-ABAC-465A-9514-C9C1A689F85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78209379-ABAC-465A-9514-C9C1A689F85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455B7A38-489C-415E-B805-E6E7336ABF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455B7A38-489C-415E-B805-E6E7336ABF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455B7A38-489C-415E-B805-E6E7336ABF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455B7A38-489C-415E-B805-E6E7336ABF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B80140D6-4D55-42B2-BF4D-9E2DFBEA38F8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\bin\Debug\UsersManagerService.exe.config
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\bin\Debug\UsersManagerService.exe
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\bin\Debug\UsersManagerService.pdb
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\obj\Debug\UsersManagerService.ProjectInstaller.resources
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\obj\Debug\UsersManagerService.csproj.GenerateResource.cache
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\obj\Debug\UsersManagerService.csproj.CoreCompileInputs.cache
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\obj\Debug\UsersManagerService.exe
+C:\Users\Elad Cohen\Desktop\Supercom\UsersManagerService\obj\Debug\UsersManagerService.pdb
+D:\Supercom\UsersManagerService\bin\Debug\UsersManagerService.exe.config
+D:\Supercom\UsersManagerService\bin\Debug\UsersManagerService.exe
+D:\Supercom\UsersManagerService\bin\Debug\EntityFramework.dll
+D:\Supercom\UsersManagerService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Supercom\UsersManagerService\bin\Debug\EntityFramework.xml
+D:\Supercom\UsersManagerService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.csprojAssemblyReference.cache
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.ProjectInstaller.resources
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.csproj.GenerateResource.cache
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.csproj.CoreCompileInputs.cache
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.csproj.CopyComplete
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.exe
+D:\Supercom\UsersManagerService\obj\Debug\UsersManagerService.pdb

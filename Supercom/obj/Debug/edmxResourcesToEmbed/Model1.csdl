@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SupercomModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SupercomEntities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetUsers" ReturnType="Collection(SupercomModel.GetUsers_Result)" />
+  </EntityContainer>
+  <ComplexType Name="GetUsers_Result">
+    <Property Type="Int32" Name="ID" Nullable="true" />
+    <Property Type="String" Name="Name" Nullable="true" />
+  </ComplexType>
+</Schema>
